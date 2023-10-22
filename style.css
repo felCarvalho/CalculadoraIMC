@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    user-select: none;
+}
+
+.container{
+    text-align: center;
+    margin-top: 20em;
+    padding: 40px 0 25px;
+    margin-inline: 550px;
+    box-shadow: 5px 5px 10px blueviolet;
+    border-radius: 10px;
+    border: 1px double blueviolet;
+}
+
+.container > .peso{
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container > .altura{
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container-botão{
+    margin-top: 20px;
+}
+
+#botão{
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    background: blueviolet;
+    color: white;
+    width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
